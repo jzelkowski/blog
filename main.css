@@ -1,0 +1,24 @@
+#basic1 {
+	width: 200px;
+	padding: 10px;
+	border-style: dotted;
+	float: left;
+}
+#basic2 {
+	width: 300px;
+	padding: 25px;
+	border: none;
+	float: left;
+}
+#basic3 {
+	width: 300px;
+	padding: 20px;
+	border: solid black;
+	position: relative;
+}
+#basic4 {
+	width: 300px;
+	padding: 20px;
+	border: dashed black;
+	
+}
